@@ -18,6 +18,6 @@
 
 本合集基于官方 Lark CLI 发布的飞书技能独立整理。[上游仓库](https://github.com/larksuite/cli)
 
-再分发受 MIT 许可覆盖的上游内容时，须随附原版权声明（© 2026 Lark Technologies Pte. Ltd.）和完整许可文本。[上游 MIT 许可](https://raw.githubusercontent.com/larksuite/cli/v1.0.100/LICENSE)
+再分发受 MIT 许可覆盖的上游内容时，须随附原版权声明（© 2026 Lark Technologies Pte. Ltd.）和完整许可文本。[上游 MIT 许可](https://raw.githubusercontent.com/larksuite/cli/v1.0.100/LICENSE) · [随附 MIT 许可](LICENSES/Lark-MIT.txt)
 
-幻灯片图标索引使用了字节跳动 IconPark 的数据，相关上游数据采用 Apache-2.0 许可。[IconPark 许可](https://github.com/bytedance/IconPark/blob/master/LICENSE)
+幻灯片图标索引使用了字节跳动 IconPark 的数据，相关上游数据采用 Apache-2.0 许可。[IconPark 许可](https://github.com/bytedance/IconPark/blob/master/LICENSE) · [随附 IconPark 许可](LICENSES/IconPark-Apache-2.0.txt)
